@@ -10,7 +10,7 @@ This is my learning HTML and CSS project.
 
 Web page published at: [sgrazys.github.io/02-maze/](https://sgrazys.github.io/02-maze/)
 
-Design: [UFO](./img/design.jpg)
+Design: [MAZE](./img/design.jpg)
 
 ## 🎯 Project features/goals
 
@@ -40,7 +40,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/sgrazys/02-ufo.git
+    git clone https://github.com/sgrazys/02-maze.git
     ```
 2. Install NPM packages
     ```
